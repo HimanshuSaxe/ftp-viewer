@@ -1,0 +1,12 @@
+/* styles.css */
+body {
+    font-family: Arial, sans-serif;
+}
+#file-list {
+    margin-top: 20px;
+}
+#file-list div {
+    padding: 5px;
+    border: 1px solid #ccc;
+    margin-bottom: 5px;
+}
